@@ -2,3 +2,19 @@
 	path = java-racingcar
 	url = https://github.com/namjunemy/java-racingcar
 	branch = step3
+[submodule "java-lotto"]
+	path = java-lotto
+	url = https://github.com/namjunemy/java-lotto
+	branch = step4
+[submodule "java-ladder"]
+	path = java-ladder
+	url = https://github.com/namjunemy/java-ladder
+	branch = step4
+[submodule "java-qna-atdd"]
+	path = java-qna-atdd
+	url = https://github.com/namjunemy/java-qna-atdd
+	branch = step4
+[submodule "java-bowling"]
+	path = java-bowling
+	url = https://github.com/namjunemy/java-bowling
+	branch = namjunemy 
